@@ -6,9 +6,9 @@
 
 ## 🔍 About Me
 
-I'm a seasoned finance professional with deep expertise in accounting (LuxGAAP, US GAAP, IFRS), financial reporting, and investment analysis — now pivoting toward **AI agent transformation** in finance and algorithmic stock trading.
+I'm a seasoned finance professional with deep expertise in accounting (LuxGAAP, US GAAP, IFRS), financial reporting, and investment analysis — now actively building real-time AI agents for financial markets.
 
-My vision: to build and deploy **AI stock agents** that integrate LLMs, algorithmic strategies, and financial domain knowledge to drive predictive trading and portfolio optimization.
+My vision: to build and deploy intelligent stock agents that combine algorithmic strategies, real-time data feeds, and financial domain expertise. I aim to integrate large language models (LLMs) with quantitative logic to create autonomous trading systems for predictive execution and portfolio optimization.
 
 ---
 
