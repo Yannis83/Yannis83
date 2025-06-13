@@ -57,7 +57,7 @@ My vision: to build and deploy **AI stock agents** that integrate LLMs, algorith
 I'm looking for **AI and trading-focused teams** where I can bring **finance domain depth**, **technical automation**, and a **strategic mindset** to the table.
 
 - ✉️ koufos.john@gmail.com
-- 📱 [LinkedIn](https://www.linkedin.com/in/ioannis-k-82014a3a/) *(Update this)*
+- 📱 [LinkedIn](https://www.linkedin.com/in/ioannis-k-82014a3a/) 
 - 🌐 Currently open to freelance or full-time opportunities in **AI x Finance**
 
 ---
